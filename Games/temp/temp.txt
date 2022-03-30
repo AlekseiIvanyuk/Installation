@@ -1,12 +1,12 @@
-Каталог src создан
-Каталог res создан
-Каталог savegames создан
-Каталог temp создан
-Каталог main создан
-Каталог test создан
+Каталог C:\Алексей\Программирование\JAVA Нетология\Java Core\HW Installation\Games\temp создан
+Файл temp.txt был создан
+Каталог C:\Алексей\Программирование\JAVA Нетология\Java Core\HW Installation\Games\src создан
+Каталог C:\Алексей\Программирование\JAVA Нетология\Java Core\HW Installation\Games\res создан
+Каталог C:\Алексей\Программирование\JAVA Нетология\Java Core\HW Installation\Games\savegames создан
+Каталог C:\Алексей\Программирование\JAVA Нетология\Java Core\HW Installation\Games\src\main создан
+Каталог C:\Алексей\Программирование\JAVA Нетология\Java Core\HW Installation\Games\src\test создан
+Каталог C:\Алексей\Программирование\JAVA Нетология\Java Core\HW Installation\Games\res\drawables создан
+Каталог C:\Алексей\Программирование\JAVA Нетология\Java Core\HW Installation\Games\res\vectors создан
+Каталог C:\Алексей\Программирование\JAVA Нетология\Java Core\HW Installation\Games\res\icons создан
 Файл Main.java был создан
 Файл Utils.java был создан
-Каталог drawables создан
-Каталог vectors создан
-Каталог icons создан
-Файл temp.txt был создан
